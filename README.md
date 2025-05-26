@@ -1,9 +1,10 @@
-# Olá, eu sou a Jamily! 👋
 
-Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ciências, esportes e artes. Busco sempre unir criatividade, disciplina e curiosidade em tudo o que faço!
 
 <div>
   <img aling="center" src=""/>
+  # Olá, eu sou a Jamily! 👋
+
+Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ciências, esportes e artes. Busco sempre unir criatividade, disciplina e curiosidade em tudo o que faço!
 
 <div>
   <a href="https://github.com/jamilydev">
@@ -12,41 +13,28 @@ Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ci�
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
   
   
   
-
+<div>
+  
+  <img aling="center" src=""/>
 ## 🎓 Formação Acadêmica
 - Técnico em Informática pelo IFMT (ensino médio)
 - Graduanda em Inteligência Artificial pela UFG
 
-## 💻 Skills & Tecnologias
-**No IFMT:**
-- Java
-- HTML & CSS
-- PostgreSQL
-
-**Na UFG:**
-- Python
-- Frameworks diversos para projetos em IA
-
-## 🚀 Projetos
-- estou trabalhando
 
 ## 🎨 Interesses e Hobbies
 - Desenho nas horas vagas
 - Atleta de basquete 🏀 e vôlei 🏐
 
-## 📫 Contato
-- j_milyv
-- 
-
+</div>
 ---
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
