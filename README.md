@@ -1,10 +1,10 @@
 
-
 <div>
-  <img aling="center" />
-  # Olá, eu sou a Jamily! 👋
 
+# Olá, eu sou a Jamily! 👋
 Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ciências, esportes e artes. Busco sempre unir criatividade, disciplina e curiosidade em tudo o que faço!
+
+</div>
 
 ### 📈 Minhas Estatísticas
 
@@ -36,11 +36,8 @@ Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ci�
 </div>
 
   
+<div>  
   
-  
-<div>
-  
-  <img aling="center" />
 ## 🎓 Formação Acadêmica
 - Técnico em Informática pelo IFMT (ensino médio)
 - Graduanda em Inteligência Artificial pela UFG
