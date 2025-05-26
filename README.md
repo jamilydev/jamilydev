@@ -10,7 +10,7 @@ Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ci�
 
 ---
 
-<div align="center">
+<div>
 
   <!-- Cartão de estatísticas de GitHub reais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,7 +21,7 @@ Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ci�
 </div>
 
 <!-- Streaks reais -->
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=jamilydev&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
