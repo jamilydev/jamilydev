@@ -1,16 +1,32 @@
 
 
 <div>
-  <img aling="center" src=""/>
+  <img aling="center" />
   # Olá, eu sou a Jamily! 👋
 
 Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ciências, esportes e artes. Busco sempre unir criatividade, disciplina e curiosidade em tudo o que faço!
 
-<div>
-  <a href="https://github.com/jamilydev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilydev&layout=compact&langs_count=7&theme=radical"/>
+### 📈 Minhas Estatísticas
+
+---
+
+<div align="center">
+
+  <!-- Cartão de estatísticas de GitHub reais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilydev&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
+
+<!-- Streaks reais -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jamilydev&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+
+---
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +40,7 @@ Sou estudante de Inteligência Artificial na UFG, apaixonada por tecnologia, ci�
   
 <div>
   
-  <img aling="center" src=""/>
+  <img aling="center" />
 ## 🎓 Formação Acadêmica
 - Técnico em Informática pelo IFMT (ensino médio)
 - Graduanda em Inteligência Artificial pela UFG
